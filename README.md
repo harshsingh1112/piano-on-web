@@ -32,6 +32,11 @@ piano-on-web/
    git clone https://github.com/harshsingh1112piano-on-web.git
 2. Open the `index.html` file in your browser to view the piano.
 
+## Preview:
+
+<img width="849" alt="Screenshot 2024-12-25 at 12 38 22 AM" src="https://github.com/user-attachments/assets/55af86cc-0f89-4236-8998-bca3d179fb70" />
+
+
 ## License:
 MIT License.
 
